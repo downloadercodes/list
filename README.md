@@ -26,32 +26,32 @@
 | App | Code |
 |---|---:|
 | **🛠️ Utilities** |  |
-| AdGuard for Android TV | 442768 |
-| Blokada | 15123 |
-| DefSquid | 33479 |
-| Background Apps & Process List | 5385366 |
-| AIDA64 | 872719 |
+| AdGuard for Android TV | **442768** |
+| Blokada | **15123** |
+| DefSquid | **33479** |
+| Background Apps & Process List | **5385366** |
+| AIDA64 | **872719** |
 | **📺 Streaming Apps** |  |
-| Plex | 5243082 |
-| Stremio | 2734024 |
-| SmartTube | 28544 |
+| Plex | **5243082** |
+| Stremio | **2734024** |
+| SmartTube | **28544** |
 | **🎞️ Media Players** |  |
-| Kodi | 8628413 |
-| VLC for Android | 6505538 |
-| MX Player | 894749 |
-| Just (Video) Player | 2747416 |
-| Next Player | 6279584 |
+| Kodi | **8628413** |
+| VLC for Android | **6505538** |
+| MX Player | **894749** |
+| Just (Video) Player | **2747416** |
+| Next Player | **6279584** |
 | **📡 IPTV Players** |  |
-| TiviMate | 272483 |
-| IPTV Smarters Pro | 6468112 |
-| IPTV | 1893028 |
-| Smart IPTV | 26604 |
+| TiviMate | **272483** |
+| IPTV Smarters Pro | **6468112** |
+| IPTV | **1893028** |
+| Smart IPTV | **26604** |
 | **🌐 Browsers** |  |
-| Firefox | 4697921 |
-| TV Bro | 627360 |
-| Opera | 99187 |
-| Brave Browser | 8481619 |
-| DuckDuckGo Browser | 8945952 |
+| Firefox | **4697921** |
+| TV Bro | **627360** |
+| Opera | **99187** |
+| Brave Browser | **8481619** |
+| DuckDuckGo Browser | **8945952** |
 
 ## Updates
 - 2026-01-15: Initial release (22 apps)
